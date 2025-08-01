@@ -1,0 +1,4 @@
+openai>=0.27.0
+pyyaml
+requests
+streamlit>=1.20.0
